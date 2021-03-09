@@ -5,3 +5,5 @@ servers/
 stab/
 target/
 test/
+builds/
+shade/

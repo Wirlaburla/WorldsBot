@@ -27,7 +27,5 @@ public class Main {
         } catch (LoginException e) {
             e.printStackTrace();
         }
-
-        System.out.println("https://discord.com/api/oauth2/authorize?client_id=619330060981108768&scope=bot");
     }
 }
