@@ -1,0 +1,15 @@
+token: ABC123
+WorldsServer:
+        server: "worldserver://www.3dcd.com:6650/default.console"
+WorldsLogin:
+        username: ABC
+        password: 123
+Pages:
+        Base: "http://www-dynamic.us.worlds.net/cgi-bin/"
+        Profile: "profile.pl?"
+        VIP: "vip.pl?Username="
+Message:
+        InvalidArguments: "Invalid Arguments: `{0}{1} {2}`"
+        Linked: "{0}: You've been successfully linked to {1}."
+        Unlinked: "{0}: You have been unlinked from {1}."
+        SetPrefix: "Successfully set the prefix to `{0}`"
